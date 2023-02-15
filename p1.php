@@ -142,3 +142,7 @@ $n ="2 Cups";
 
 serve ($ft, $n);
 echo 'hello';
+ function create()
+{
+    echo 'hello';
+}
